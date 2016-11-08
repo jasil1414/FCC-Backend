@@ -1,0 +1,23 @@
+{
+  "name": "build_web_apps_with_express",
+  "version": "1.0.0",
+  "description": "FCC Backend Exercise",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FCC-Backend"
+  },
+  "author": "Jasil",
+  "license": "ISC"
+}
